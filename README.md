@@ -36,7 +36,7 @@ Demonstrate your understanding of this week's concepts by answering the followin
 
 1. Mention three types of automated tests.
 
-    
+    mocha, cypress, protractor
 
 ## Project Set Up
 

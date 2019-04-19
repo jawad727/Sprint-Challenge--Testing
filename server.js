@@ -16,6 +16,7 @@ server.get('/', (req, res) => {
 
 
 
+
 //Routes
 server.use('/api/games', gameRouter)
 
